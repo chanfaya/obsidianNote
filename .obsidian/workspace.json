@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b570b63421b2eb42",
+        "id": "248b13e3de20eef2",
         "type": "tabs",
         "children": [
           {
-            "id": "9c83594c34ca9827",
+            "id": "d97d755aceaab3a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/吃.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51e3ad37ca6d9a25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/未命名.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/未命名.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,7 +138,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7737ba29527b9315",
+  "active": "d97d755aceaab3a5",
   "lastOpenFiles": [
     "test/吃.md",
     "note/未命名.md",
